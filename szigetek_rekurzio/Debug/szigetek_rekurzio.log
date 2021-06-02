@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  szigetek_rekurzio.cpp
+c:\users\ferenc\source\repos\szigetek_rekurzio\szigetek_rekurzio\szigetek_rekurzio.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  szigetek_rekurzio.vcxproj -> C:\Users\Ferenc\source\repos\szigetek_rekurzio\Debug\szigetek_rekurzio.exe

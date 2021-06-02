@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "szigetek_rekurzio", "szigetek_rekurzio\szigetek_rekurzio.vcxproj", "{08E70DF2-43EE-4E1C-B902-99B19B0FEC1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E70DF2-43EE-4E1C-B902-99B19B0FEC1C}.Debug|x64.ActiveCfg = Debug|x64
+		{08E70DF2-43EE-4E1C-B902-99B19B0FEC1C}.Debug|x64.Build.0 = Debug|x64
+		{08E70DF2-43EE-4E1C-B902-99B19B0FEC1C}.Debug|x86.ActiveCfg = Debug|Win32
+		{08E70DF2-43EE-4E1C-B902-99B19B0FEC1C}.Debug|x86.Build.0 = Debug|Win32
+		{08E70DF2-43EE-4E1C-B902-99B19B0FEC1C}.Release|x64.ActiveCfg = Release|x64
+		{08E70DF2-43EE-4E1C-B902-99B19B0FEC1C}.Release|x64.Build.0 = Release|x64
+		{08E70DF2-43EE-4E1C-B902-99B19B0FEC1C}.Release|x86.ActiveCfg = Release|Win32
+		{08E70DF2-43EE-4E1C-B902-99B19B0FEC1C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {408E9544-4ADA-4243-BA1C-E2675686F260}
+	EndGlobalSection
+EndGlobal
